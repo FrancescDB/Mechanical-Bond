@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FINALES/MainMenu.unity
+    guid: f2694995a0b2769499d8d0473299d091
+  - enabled: 1
+    path: Assets/Scenes/FINALES/MainScene.unity
+    guid: ecdf5f836c80d634f90aca903e8e4714
+  - enabled: 1
+    path: Assets/Scenes/FINALES/EndScene.unity
+    guid: 4d820d0d84de4bc45a9cf59afd555807
+  - enabled: 1
+    path: Assets/Scenes/FINALES/Transition.unity
+    guid: 0ba12c98e403b6f4e99f517c3111507f
+  - enabled: 0
+    path: Assets/Scenes/PruebaGameFlow.unity
+    guid: 9a6c2dd03cb9a674d85a30f88d9c0260
+  m_configObjects: {}
